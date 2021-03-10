@@ -5,3 +5,10 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+## Extentions
+bin/
+bin-int/
+
+*.sln
+*.vcxproj*
